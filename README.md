@@ -31,15 +31,6 @@ A performance-conscious Python script that translates live webcam video feeds in
 
 ---
 
-## 📊 Git Profile Status
-
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ChiefChriss&show_icons=true&theme=visual_studio_dark" alt="Christopher's GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ChiefChriss&layout=compact&theme=visual_studio_dark" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/christobal/](https://www.linkedin.com/in/christobal/) 
 * **Email:** [chrisramos811@gmail.com](mailto:chrisramos811@gmail.com)
