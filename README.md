@@ -16,7 +16,7 @@ Full-stack engineer who cares about building things that work well — from the 
 
 A collaborative music app with a Next.js frontend and Django backend. I built the track upload system, the social media features, and the music player and track page.
 
-### 📱 [Meow](https://github.com/ChiefChriss/me0w) — iOS Movie & Show Browser
+### 📱 [me0w](https://github.com/ChiefChriss/me0w) — iOS Movie & Show Browser
 
 An iOS app for browsing trending movies and shows, searching by genre, and tracking what you want to watch. Built in SwiftUI with async TMDB API integration, image caching, and pull-to-refresh.
 
