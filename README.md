@@ -1,36 +1,32 @@
 # Hi, I'm Christopher Ramos 👋
 
-I am a Full-Stack Software Engineer focused on building scalable web ecosystems, modern mobile architectures, and real-time data processing applications. I enjoy bridging the gap between high-level user interfaces and optimized backend performance.
+Full-stack engineer who cares about building things that work well — from the UI down to the database. I mostly write Python, Swift, and TypeScript, and I'm happiest when frontend and backend actually talk to each other cleanly.
 
-## 🚀 Core Tech Stack
+## 🧰 Stack
 
-- **Languages:** Python, Swift, C, Java, JavaScript, SQL
-- **Frameworks & Libs:** Next.js, Django, SwiftUI, OpenCV, Node.js
-- **Tools & Databases:** Git, PostgreSQL, SQLite, REST APIs, Docker
-
----
-
-## 🛠️ Featured Projects
-
-### 🎵 [Sonara](https://github.com/EastonCC/Sonara) — Full-Stack Music Platform (Collaborative Project)
-A decoupled, production-ready music application leveraging modern rendering patterns and robust backend architecture, built alongside a talented development team.
-* **Frontend:** Developed with **Next.js** for optimized client-side performance, state management, and clean component structure.
-* **Backend:** Powered by **Django** to serve a secure, scalable RESTful API handling data persistence and core application logic.
-* **Key Focus:** Decoupled service communication, API design patterns, and cross-framework data flow.
-
-### 📱 [Meow](https://github.com/ChiefChriss/Meow) — iOS Video Streaming App
-A sleek, modern iOS application for seamless multimedia discovery and stream tracking.
-* **UI/UX:** Built entirely using **SwiftUI** for a highly responsive, fluid user experience adhering to Apple's design guidelines.
-* **Data Layer:** Integrates asynchronously with the third-party **TMDB REST API** to fetch, parse, and cache real-time movie and show data.
-* **Key Focus:** Asynchronous Swift architecture (`async/await`), declarative state management, and network handling.
-
-### 👁️ [Real-Time ASCII Filter](https://github.com/ChiefChriss) — Computer Vision Logic
-A performance-conscious Python script that translates live webcam video feeds into interactive ASCII art arrays in real time.
-* **Core Logic:** Implemented utilizing **OpenCV** for frame-by-frame matrix manipulation and pixel luminance mapping.
-* **Key Focus:** Data vectorization, algorithmic optimization, and micro-managing processing loops to maximize frame rates (FPS).
+**Languages:** Python, Swift, JavaScript, TypeScript, SQL, C, Java
+**Frameworks:** Next.js, Django, SwiftUI, Node.js, OpenCV
+**Tools:** Git, PostgreSQL, SQLite, Docker, REST APIs
 
 ---
 
-## 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/christobal/](https://www.linkedin.com/in/christobal/) 
-* **Email:** [chrisramos811@gmail.com](mailto:chrisramos811@gmail.com)
+## 🛠️ Projects
+
+### 🎵 [Sonara](https://github.com/EastonCC/Sonara) — Full-Stack Music Platform
+
+A collaborative music app with a Next.js frontend and Django backend. I built the track upload system, the social media features, and the music player and track page.
+
+### 📱 [Meow](https://github.com/ChiefChriss/Meow) — iOS Movie & Show Browser
+
+An iOS app for browsing trending movies and shows, searching by genre, and tracking what you want to watch. Built in SwiftUI with async TMDB API integration, image caching, and pull-to-refresh.
+
+### 👁️ [Real-Time ASCII Filter](https://github.com/ChiefChriss/ascii-live-filter) — Computer Vision
+
+Live webcam feed converted to ASCII art in real time using OpenCV. Maps each frame's pixel luminance to character density for a retro terminal aesthetic.
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** [linkedin.com/in/christobal](https://www.linkedin.com/in/christobal/)
+- **Email:** [chrisramos811@gmail.com](mailto:chrisramos811@gmail.com)
